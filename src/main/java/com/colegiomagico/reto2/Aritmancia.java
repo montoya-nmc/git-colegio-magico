@@ -6,7 +6,7 @@ package com.colegiomagico.reto2;
 public class Aritmancia {
 
     public static int sumar(int num1, int num2) {
-        return num1 + num2; // TODO: Cambia esto
+        return num1 + num2;
     }
 
     public static void main(String[] args) {
