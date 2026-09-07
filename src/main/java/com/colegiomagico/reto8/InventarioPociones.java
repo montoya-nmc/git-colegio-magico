@@ -6,8 +6,18 @@ package com.colegiomagico.reto8;
 public class InventarioPociones {
 
     public static java.util.List<String> filtrar(java.util.List<String> ingredientes) {
-        return new java.util.ArrayList<>(); // TODO: Cambia esto
+            
+        java.util.List<String> resultado = new java.util.ArrayList<>();
+
+        for (String ingrediente : ingredientes) {
+            if (ingrediente.startsWith("A")) {
+                resultado.add(ingrediente);
+            }
+        }
+
+        return resultado;
     }
+ 
 
     public static void main(String[] args) {
         java.util.List<String> lista = java.util.Arrays.asList("Ajenjo", "Miel");
