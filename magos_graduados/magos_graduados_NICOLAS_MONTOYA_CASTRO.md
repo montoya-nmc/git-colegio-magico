@@ -1,11 +1,11 @@
 # 📝 Plantilla de Entrega: El Pensadero
 
-Responde a las siguientes preguntas como parte de tu evaluación final. 
+Responde a las siguientes preguntas como parte de tu evaluación final. Nicolas Montoya Castro
 
 
 
 1. **¿Usaste Inteligencia Artificial para resolver los retos (del 3 al 9)?**
-*Respuesta:* (use IA en los retos 7 y 8)
+*Respuesta:* (use IA en los retos 7 y 8.)
 
 
 
